@@ -12,3 +12,4 @@ Guided code exploration for Neovim with definitions, refs, callers, tests, git,
 # guard against empty input
 # drop an unused branch
 # drop an unused branch
+# drop an unused branch
